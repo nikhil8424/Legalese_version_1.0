@@ -1,0 +1,50 @@
+python 3.10
+PyPDF2==1.26.0
+pdf2image==1.16.3
+pytesseract==0.3.8
+deep-translator==1.9.0
+sumy==0.8.0
+spacy==3.0.0
+nltk==3.6.3
+transformers==4.3.3
+textblob==0.15.3
+
+
+Package            Version
+------------------ ---------
+beautifulsoup4     4.12.3
+breadability       0.1.20
+certifi            2024.8.30
+chardet            5.2.0
+charset-normalizer 3.4.0
+click              8.1.7
+colorama           0.4.6
+Cython             3.0.11
+deep-translator    1.9.0
+docopt             0.6.2
+filelock           3.16.1
+fsspec             2024.10.0
+huggingface-hub    0.26.5
+idna               3.10
+joblib             1.4.2
+lxml               5.3.0
+nltk               3.5
+numpy              2.2.0
+packaging          24.2
+pdf2image          1.16.3
+pillow             11.0.0
+pip                24.3.1
+pycountry          24.6.1
+PyPDF2             1.26.0
+pytesseract        0.3.8
+PyYAML             6.0.2
+regex              2024.11.6
+requests           2.32.3
+soupsieve          2.6
+sumy               0.8.0
+textblob           0.15.3
+tokenizers         0.21.0
+tqdm               4.67.1
+transformers       4.47.0
+typing_extensions  4.12.2
+urllib3            2.2.3
