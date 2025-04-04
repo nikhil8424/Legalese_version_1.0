@@ -55,3 +55,4 @@ Below is an image of the current UI for the Legaleze Assistance Application:
 
 ![Legaleze UI](https://github.com/nikhil8424/Legalese/blob/main/ui_legalese.png)
 [code flow](https://github.com/nikhil8424/Legalese/blob/main/codetoflow.png)
+[document](https://github.com/nikhil8424/Legalese_version_1.0/blob/main/Legalese_report.docx)
